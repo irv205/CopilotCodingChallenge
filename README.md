@@ -19,3 +19,6 @@ Single-screen app that fetches **Top Tech Headlines** from **NewsAPI** and displ
 ## Notas
 - Endpoint usado: `/v2/top-headlines?category=technology&country=us&pageSize=20`
 - La API key se inyecta en `BuildConfig.NEWS_API_KEY`.
+
+## 📸 Screenshots
+![Pantalla principal](screenshots/img.png)
