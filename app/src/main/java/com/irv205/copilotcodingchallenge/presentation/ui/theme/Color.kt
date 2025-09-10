@@ -1,4 +1,4 @@
-package com.irv205.copilotcodingchallenge.ui.theme
+package com.irv205.copilotcodingchallenge.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
