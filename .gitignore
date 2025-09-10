@@ -1,0 +1,44 @@
+# Gradle
+.gradle/
+build/
+
+# Local configuration
+local.properties
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Android Studio
+.cxx/
+captures/
+.externalNativeBuild/
+.navigation/
+*.hprof
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (si usas Firebase)
+google-services.json
+GoogleService-Info.plist
+
+# Logs
+*.log
+
+# Cache
+.cache/
+*.class
+
+# APKs
+*.apk
+*.ap_ 
+*.aab
+
+# NDK
+obj/
+*.so
+
+# Misc
+.DS_Store
